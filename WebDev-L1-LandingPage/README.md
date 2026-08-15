@@ -1,4 +1,4 @@
-# CoffeeCove - ShopLanding Page
+# CoffeeCove - Café Landing Page
 
 A warm and modern café landing page created for **CoffeeCove**, a cozy coffee shop offering premium coffee, handcrafted beverages, and delicious desserts. The website provides visitors with information about the café, menu, customer reviews, and contact details through a simple and attractive interface.
 
@@ -134,7 +134,9 @@ CoffeeCove uses a cozy café-inspired design with:
 📧 [coffeecove@gmail.com](mailto:coffeecove@gmail.com)
 🕘 Open: 8 AM - 10 PM
 
----
+##Screenshots
+  
+    
 
 ## 👩‍💻 Author
 
