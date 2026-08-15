@@ -1,4 +1,4 @@
-# CoffeeCove - Café Landing Page
+# CoffeeCove - Shop Landing Page
 
 A warm and modern café landing page created for **CoffeeCove**, a cozy coffee shop offering premium coffee, handcrafted beverages, and delicious desserts. The website provides visitors with information about the café, menu, customer reviews, and contact details through a simple and attractive interface.
 
