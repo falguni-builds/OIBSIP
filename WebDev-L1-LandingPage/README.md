@@ -134,10 +134,6 @@ CoffeeCove uses a cozy café-inspired design with:
 📧 [coffeecove@gmail.com](mailto:coffeecove@gmail.com)
 🕘 Open: 8 AM - 10 PM
 
-##Screenshots
-  
-    
-
 ## 👩‍💻 Author
 
 **Falguni Firake**
